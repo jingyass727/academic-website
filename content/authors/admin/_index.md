@@ -22,13 +22,12 @@ organizations:
     url: https://www.lsu.edu/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include consumption and long-term economic growth.
 
 # Interests to show in About widget
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Consumption
+  - Long-term Economic Growth
 
 # Education to show in About widget
 education:
@@ -36,12 +35,12 @@ education:
     - course: PhD in Economics
       institution: Louisiana State University
       year: 2019 - Present
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: MSc in Finance
+      institution: Boston University
+      year: 2018
+    - course: BSc in Computer Science
+      institution: Zhengzhou University
+      year: 2015
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
