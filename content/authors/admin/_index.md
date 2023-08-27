@@ -73,11 +73,11 @@ social:
   #  link: uploads/resume.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ''
+email: sjingy2@lsu.edu
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
 
-Alice Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Jingya Sun is a PhD candidate of economics at Louisiana State University. Her research interests include **Consumption** and **Long-term Economic Growth**. Before joining LSU, she got her master degree from {{< staticref "https://https://www.bu.edu" "newtab" >}}Boston University{{< /staticref >}} and her bachelor degree from {{< staticref "https://http://www.zzu.edu.cn" "newtab" >}}Zhengzhou University{{< /staticref >}}.
 {style="text-align: justify;"}
