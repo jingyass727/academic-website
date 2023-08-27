@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Jingya Sun 孙婧雅
+title: Jingya Sun
 
 # Full name (for SEO)
 first_name: Jingya
