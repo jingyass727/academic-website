@@ -3,8 +3,8 @@
 title: Jingya Sun 孙婧雅
 
 # Full name (for SEO)
-first_name: Alice
-last_name: Wu
+first_name: Jingya
+last_name: Sun
 
 # Status emoji
 status:
@@ -33,9 +33,9 @@ interests:
 # Education to show in About widget
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
+    - course: PhD in Economics
+      institution: Louisiana State University
+      year: 2019 - Present
     - course: MEng in Artificial Intelligence
       institution: Massachusetts Institute of Technology
       year: 2009
