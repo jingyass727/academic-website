@@ -254,7 +254,7 @@ sections:
     content:
       title: ''
       subtitle: ''
-      text: <center><a href="https://clustrmaps.com/site/1bw95"  title="Visit tracker"><img src="//www.clustrmaps.com/map_v2.png?d=RJ-9BpR3nPPhm7slE3OgXRPbI71Yo8jKNdXiKoeSQUw&cl=ffffff" /></a></center>
+      text: <center><script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=300&t=n&d=RJ-9BpR3nPPhm7slE3OgXRPbI71Yo8jKNdXiKoeSQUw'></script></center>
     design:
       columns: '1'
 ---
