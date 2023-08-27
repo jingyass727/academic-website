@@ -79,5 +79,5 @@ email: sjingy2@lsu.edu
 highlight_name: true
 ---
 
-Jingya Sun is a PhD candidate of economics at Louisiana State University. Her research interests include **Consumption** and **Long-term Economic Growth**. Before joining LSU, she got her master degree from {{< staticref "https://https://www.bu.edu" "newtab" >}}Boston University{{< /staticref >}} and her bachelor degree from {{< staticref "https://http://www.zzu.edu.cn" "newtab" >}}Zhengzhou University{{< /staticref >}}.
+Jingya Sun is a PhD candidate of economics at Louisiana State University. Her research interests include **Consumption** and **Long-term Economic Growth**. Before joining LSU, she got her master degree from {{< staticref "https://www.bu.edu" "newtab" >}}Boston University{{< /staticref >}} and her bachelor degree from {{< staticref "https://www.zzu.edu.cn" "newtab" >}}Zhengzhou University{{< /staticref >}}.
 {style="text-align: justify;"}
