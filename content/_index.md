@@ -250,4 +250,7 @@ sections:
           captcha: false
     design:
       columns: '2'
+  - block: visit-tracker
+    content:
+    design:
 ---
