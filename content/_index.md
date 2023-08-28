@@ -204,6 +204,7 @@ sections:
       title: Popular Topics
     design:
       columns: '2'
+      -->
   - block: contact
     id: contact
     content:
@@ -251,7 +252,7 @@ sections:
           captcha: false
     design:
       columns: '2'
-  -->
+  
   - block: markdown
     content:
       title: ''
