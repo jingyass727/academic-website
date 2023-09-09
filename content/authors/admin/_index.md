@@ -32,16 +32,24 @@ interests:
 # Education to show in About widget
 education:
   courses:
-    - course: PhD in Economics
+    - course: Ph.D. in Economics
       institution: Louisiana State University
-      year: 2019 - Present
+      year: 2019 - Expected graduation 2024
+    - course: Graduate Certificate in Econometrics
+      institution: Louisiana State University
+      year: 2022
+    - course: M.A. in Financial Economics
+      institution: Louisiana State University
+      year: 2019 - 2021      
     - course: MSc in Finance
       institution: Boston University
-      year: 2018
-    - course: BSc in Computer Science
+      year: 2016 - 2018
+    - course: B.A. in Computer Science and Technology
       institution: Zhengzhou University
-      year: 2015
-
+      year: 2011 - 2015
+    - course: B.A. in Finance
+      institution: Zhengzhou University
+      year: 2011 - 2015
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
