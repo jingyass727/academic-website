@@ -26,8 +26,9 @@ bio: My research interests include consumption and long-term economic growth.
 
 # Interests to show in About widget
 interests:
+  - Macroeconomics
   - Consumption
-  - Long-term Economic Growth
+  - Economic Growth
 
 # Education to show in About widget
 education:
