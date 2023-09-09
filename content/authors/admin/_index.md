@@ -38,10 +38,10 @@ education:
     - course: Graduate Certificate in Econometrics
       institution: Louisiana State University
       year: 2022
-    - course: M.A. in Financial Economics
+    - course: M.A. in Economics
       institution: Louisiana State University
       year: 2019 - 2021      
-    - course: MSc in Finance
+    - course: M.A. in Financial Economics
       institution: Boston University
       year: 2016 - 2018
     - course: B.A. in Computer Science and Technology
