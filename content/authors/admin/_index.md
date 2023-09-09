@@ -32,8 +32,8 @@ interests:
 # Education to show in About widget
 education:
   courses:
-    - course: Ph.D. in Economics
-      institution: Louisiana State University
+    #- course: Ph.D. in Economics
+    - institution: Louisiana State University
       year: 2019 - Expected graduation 2024
     - course: Graduate Certificate in Econometrics
       institution: Louisiana State University
