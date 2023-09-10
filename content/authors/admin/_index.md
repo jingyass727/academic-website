@@ -13,7 +13,7 @@ social:
     link: mailto:sjingy2@lsu.edu
   - icon: linkedin
     icon_pack: fab
-    link: https://linkedin.com/in/jingya-sun-2611a9107
+    link: https://linkedin.com/in/jingya-sun-2a7896277
 organizations:
   - name: Louisiana State University
     url: https://www.lsu.edu/
