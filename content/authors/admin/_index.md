@@ -1,6 +1,7 @@
 ---
 title: Jingya Sun
 role: PhD Candidate of Economics
+avatar_filename: avatar.jpeg
 bio: My research interests include consumption and long-term economic growth.
 interests:
   - Macroeconomics
